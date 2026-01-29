@@ -1,0 +1,7 @@
+{
+  "name": "Zan Time",
+  "description": "A high-precision daily routine and notification system with Gemini-powered email drafting and schedule optimization.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
